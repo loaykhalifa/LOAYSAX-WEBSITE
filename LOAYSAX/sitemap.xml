@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://loaysax.vercel.app/</loc>
-	<lastmod>2024-02-10</lastmod>
+	<lastmod>2024-02-14</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/BG-pattern.png</image:loc>
-	<image:title>BG</image:title>
+	<image:loc>https://loaysax.vercel.app/img/logo%20-%20title%20fit-1.png</image:loc>
+	<image:title>logo   title</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/BG-pattern.webp</image:loc>
-	<image:title>BG</image:title>
+	<image:loc>https://loaysax.vercel.app/img/logo%20-%20title%20fit-1.webp</image:loc>
+	<image:title>logo   title</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/BG-solid.jpg</image:loc>
-	<image:title>BG</image:title>
+	<image:loc>https://loaysax.vercel.app/img/logo%20-%20title%20fit.png</image:loc>
+	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/BG-solid.webp</image:loc>
-	<image:title>BG</image:title>
+	<image:loc>https://loaysax.vercel.app/img/logo%20-%20title%20fit.webp</image:loc>
+	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/BLACK%20%26%20WIGHT%20DONE.png</image:loc>
-	<image:title>Untitled00</image:title>
+	<image:loc>https://loaysax.vercel.app/img/BLACK%20%26%20WIGHT%20fade.png</image:loc>
+	<image:title>BLACK &amp; WIGHT fade</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/BLACK%20%26%20WIGHT%20DONE.webp</image:loc>
-	<image:title>Untitled00</image:title>
+	<image:loc>https://loaysax.vercel.app/img/BLACK%20%26%20WIGHT%20fade.webp</image:loc>
+	<image:title>BLACK &amp; WIGHT fade</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://loaysax.vercel.app/img/logo%20-%20yellow.png</image:loc>
@@ -35,6 +35,58 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://loaysax.vercel.app/img/logo%20-%20title.png</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://loaysax.vercel.app/home-1/</loc>
+	<lastmod>2024-02-14</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://loaysax.vercel.app/img/logo2.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://loaysax.vercel.app/img/logo2.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://loaysax.vercel.app/img/BLACK%20%26%20WIGHT%20circle.png</image:loc>
+	<image:title>Untitled00</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://loaysax.vercel.app/img/BLACK%20%26%20WIGHT%20circle.webp</image:loc>
+	<image:title>Untitled00</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://loaysax.vercel.app/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://loaysax.vercel.app/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://loaysax.vercel.app/test/</loc>
+	<lastmod>2024-02-14</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://loaysax.vercel.app/img/iphone-screen-11.png</image:loc>
+	<image:title>iphone screen-11</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://loaysax.vercel.app/img/iphone-screen-11.webp</image:loc>
+	<image:title>iphone screen-11</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://loaysax.vercel.app/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://loaysax.vercel.app/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
