@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://loaysax.vercel.app/</loc>
-	<lastmod>2024-03-06</lastmod>
+	<lastmod>2025-05-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -22,15 +22,15 @@
 	<image:title>BLACK &amp; WIGHT fade</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/zoom%20call2.jpg</image:loc>
-	<image:title>zoom call2</image:title>
+	<image:loc>https://loaysax.vercel.app/img/zoom%20call@0.5x.png</image:loc>
+	<image:title>zoom call@0.5x</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/zoom%20call2.webp</image:loc>
-	<image:title>zoom call2</image:title>
+	<image:loc>https://loaysax.vercel.app/img/zoom%20call@0.5x.webp</image:loc>
+	<image:title>zoom call@0.5x</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/logo%20-%20yellow.png</image:loc>
+	<image:loc>https://loaysax.vercel.app/img/logo%20-%20title.png</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
@@ -40,38 +40,12 @@
 </url>
 <url>
 	<loc>https://loaysax.vercel.app/test/</loc>
-	<lastmod>2024-03-06</lastmod>
+	<lastmod>2025-05-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://loaysax.vercel.app/lessons-/</loc>
-	<lastmod>2024-03-06</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/Untitled%205.png</image:loc>
-	<image:title>Untitled 5</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/Untitled%205.webp</image:loc>
-	<image:title>Untitled 5</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://loaysax.vercel.app/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
+	<image:loc>https://loaysax.vercel.app/img/hype-outlines.svg</image:loc>
+	<image:title>hype outlines</image:title>
 	</image:image>
 </url>
 </urlset>
